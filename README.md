@@ -25,8 +25,6 @@ IMDb Movies is a simple web application that allows users to search for movies u
 **Contributing:**
 Contributions are welcome! If you find a bug, have a feature request, or want to contribute in any way, feel free to open an issue or submit a pull request.
 
-**License:**
-This project is licensed under the [MIT License](LICENSE).
 
 **Live Demo:**
-[IMDb Movies Demo](#) (Replace with your live demo link)
+[IMDb Movies Demo](https://iamnithiin.github.io/mini-imdb/) (Replace with your live demo link)
