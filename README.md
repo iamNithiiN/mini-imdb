@@ -27,4 +27,4 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 
 
 **Live Demo:**
-[IMDb Movies Demo](https://iamnithiin.github.io/mini-imdb/) (Replace with your live demo link)
+[IMDb Movies Demo](https://iamnithiin.github.io/mini-imdb/)
